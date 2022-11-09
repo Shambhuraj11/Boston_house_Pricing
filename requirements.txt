@@ -4,3 +4,6 @@ pandas
 matplotlib
 numpy
 statsmodels 
+ipykernel
+joblib
+
