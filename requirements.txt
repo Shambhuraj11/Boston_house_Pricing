@@ -1,9 +1,8 @@
 Flask
-sklearn 
+sklearn
 pandas
 matplotlib
 numpy
-
 ipykernel
 joblib
 gunicorn
